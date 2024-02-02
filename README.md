@@ -28,7 +28,7 @@ To run the BirdWatcher application locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Set up environment variables:
    - Create a `.env.local` file in the root directory.
-   - Add environment variables for MongoDB connection string, Mapbox API key, etc.
+   - Add environment variables for MongoDB connection string, Mapbox API key, 
 4. Run the development server: `npm run dev`
 5. Open your browser and navigate to `http://localhost:3000`
 
