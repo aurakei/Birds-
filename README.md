@@ -24,7 +24,7 @@ BirdWatcher is a Next.js application that allows users to explore information ab
 
 To run the BirdWatcher application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <repourl>`
 2. Install dependencies: `npm install`
 3. Set up environment variables:
    - Create a `.env.local` file in the root directory.
